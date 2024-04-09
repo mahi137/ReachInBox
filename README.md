@@ -15,7 +15,7 @@
   
 
 ## To run this file locally
-- clone the repo - git clone https://github.com/mahi137/ReachInBox.git
+- clone the repo 
 - open it in your choice of IDE - VSCode(Recommended)
 - For installing node modules - npm i,
 - For starting the app - npm start
